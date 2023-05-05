@@ -9,7 +9,7 @@
 
 - 📫 Voce me acha através do e-mail **leobonani.lm@gmail.com**
 
-- 📄 Saiba sobre minhas experiencias em [linkedin.com/in/leonardo-bonani](linkedin.com/in/leonardo-bonani)
+- 📄 Saiba sobre minhas experiências em [linkedin.com/in/leonardo-bonani](linkedin.com/in/leonardo-bonani)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
