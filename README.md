@@ -1,4 +1,4 @@
-<h1 align="center">Leonardo!</h1>
+<h1 align="center">Leonardo Bonani</h1>
 <h3 align="center">Análise de dados | Analytics | BI | SQL | Python </h3>
 
 - 🔭 Atualmente estou buscando me desenvolver dentro da **área de dados**
