@@ -11,13 +11,13 @@
 
 - 📄 Saiba sobre minhas experiências em [linkedin.com/in/leonardo-bonani](linkedin.com/in/leonardo-bonani)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Se conecte comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leonardo-bonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-bonani" height="30" width="40" /></a>
 </p>
 
 
-<h3 align="left">🧰 Languages and Tools</h3>
+<h3 align="left">🧰 Linguagens e Ferramentas</h3>
 
 <p align="left">
 
@@ -39,11 +39,12 @@
          alt="powerbi" width="45" height="45"/>
   </a>
 
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" 
-         alt="excel" width="45" height="45"/>
-  </a>
+<!-- Excel (white icon) -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-plain.svg" 
+       alt="excel" width="45" height="45"/>
+</a>
+
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
