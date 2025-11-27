@@ -16,34 +16,43 @@
 <a href="https://linkedin.com/in/leonardo-bonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-bonani" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">🧰 Languages and Tools</h3>
 
 <p align="left">
-  <!-- SQL Server (versão branca) -->
+
+  <!-- SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/373590/sql-database-generic.svg" alt="sqlserver" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+         alt="sqlserver" width="45" height="45"/>
   </a>
 
-  <!-- SQL genérico (ícone branco) -->
+  <!-- SQL (genérico) -->
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-    <img src="https://www.svgrepo.com/show/353657/sql.svg" alt="sql" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" 
+         alt="sql" width="45" height="45"/>
   </a>
 
-  <!-- Power BI (ícone amarelo — perfeito no escuro) -->
+  <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" 
+         alt="powerbi" width="45" height="45"/>
   </a>
 
-  <!-- Excel (ícone branco para dark mode) -->
+  <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://www.svgrepo.com/show/452196/ms-excel.svg" alt="excel" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" 
+         alt="excel" width="45" height="45"/>
   </a>
 
-  <!-- Python (ícone colorido — funciona bem no modo escuro) -->
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         alt="python" width="45" height="45"/>
   </a>
+
 </p>
+
 
 <!--
 
