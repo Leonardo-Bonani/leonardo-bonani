@@ -39,9 +39,9 @@
          alt="powerbi" width="45" height="45"/>
   </a>
 
-<!-- Excel -->
+<!-- Excel (Fluent UI) -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" 
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/MicrosoftExcelLogo/SVG/ic_fluent_microsoft_excel_logo_48_regular.svg"
        alt="excel" width="45" height="45"/>
 </a>
 
