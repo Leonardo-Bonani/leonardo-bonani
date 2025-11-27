@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo mais sobre **SQL e Python**
 
-- 💬 Me pergunte sobre **Excel, Power BI, Metabase**
+- 💬 Me pergunte sobre **Excel, Power BI**
 
 - 📫 Voce me acha através do e-mail **leobonani.lm@gmail.com**
 
