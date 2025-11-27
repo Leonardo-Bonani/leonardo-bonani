@@ -16,35 +16,35 @@
 <a href="https://linkedin.com/in/leonardo-bonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-bonani" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="left">🧰 Languages and Tools</h3>
 
 <p align="left">
-  <!-- SQL Server -->
+  <!-- SQL Server (versão branca) -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="45" height="45"/>
+    <img src="https://www.svgrepo.com/show/373590/sql-database-generic.svg" alt="sqlserver" width="45" height="45"/>
   </a>
 
-  <!-- SQL (genérico) -->
+  <!-- SQL genérico (ícone branco) -->
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-    <img src="https://www.svgrepo.com/show/374016/sql.svg" alt="sql" width="45" height="45"/>
+    <img src="https://www.svgrepo.com/show/353657/sql.svg" alt="sql" width="45" height="45"/>
   </a>
 
-  <!-- Power BI -->
+  <!-- Power BI (ícone amarelo — perfeito no escuro) -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="45" height="45"/>
   </a>
 
-  <!-- Excel -->
+  <!-- Excel (ícone branco para dark mode) -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="45" height="45"/>
+    <img src="https://www.svgrepo.com/show/452196/ms-excel.svg" alt="excel" width="45" height="45"/>
   </a>
 
-  <!-- Python -->
+  <!-- Python (ícone colorido — funciona bem no modo escuro) -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
 </p>
+
 <!--
 
 
