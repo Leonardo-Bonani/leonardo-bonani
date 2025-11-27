@@ -39,12 +39,11 @@
          alt="powerbi" width="45" height="45"/>
   </a>
 
-<!-- Excel (Fluent UI) -->
+<!-- Excel badge -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/MicrosoftExcelLogo/SVG/ic_fluent_microsoft_excel_logo_48_regular.svg"
-       alt="excel" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" 
+       alt="excel"/>
 </a>
-
 
 
   <!-- Python -->
