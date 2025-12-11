@@ -6,9 +6,17 @@
 
 <h2 align="left"> Habilidades Técnicas </h2>
 
+<h3 align="left"> 📊 Ferramentas de BI & Visualização </h3>
+<p align="left">
+
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+</p>
+
 <h3 align="left"> 🐍 Python & Bibliotecass </h3>
-
-
 <p align="left">
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,6 +25,16 @@
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
   ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  
+</p>
+
+<h3 align="left"> 🛢 Bancos & SQL </h3>
+<p align="left">
+  
+  ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </p>
 
 
